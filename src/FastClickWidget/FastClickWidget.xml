@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<widget id="FastClickWidget.widget.FastClickWidget" needsEntityContext="false" xmlns="http://www.mendix.com/widget/1.0/">
+  <name>FastClickWidget</name>
+  <description>The description of this widget.</description>
+
+  <icon></icon>
+
+  <properties>
+        <property key="messageString" type="string" required="false" defaultValue="no value needed">
+            <caption>dummy</caption>
+            <category>Setup</category>
+            <description></description>
+        </property>
+	</properties>
+</widget>
